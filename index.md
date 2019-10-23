@@ -114,5 +114,11 @@
 
 - 感谢捐赠
 
-![微信](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/wechat-collect.jpg)
-![支付宝](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/ali-collect.jpg)
+<center>
+    <img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/wechat-collect.jpg" alt="微信" width="250" height="300">
+微信
+</center>
+<center>
+    <img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/ali-collect.jpg" alt="支付宝" width="250" height="300">
+支付宝
+</center>
