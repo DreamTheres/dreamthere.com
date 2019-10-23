@@ -4,60 +4,110 @@
 
 ### 优选
 
-<ul class="dropdown-menu languages"><li>
-    <a href="/index?t=99">
-        优秀
+<ul>
+    <li>
+        <a href="https://nav.dreamthere.com/index?t=99">
+            优秀
+        </a>
+    </li>
+    <li>
+        <a href="https://nav.dreamthere.com/index?t=1">
+            推荐
+        </a>
+    </li>
+    <li>
+        <a href="https://nav.dreamthere.com/index?t=2">
+            导航
+        </a>
+    </li>
+    <li>
+        <a href="https://nav.dreamthere.com/index?key=百度">
+            百度
+        </a>
+    </li>
+    <li>
+        <a href="https://nav.dreamthere.com/index?key=阿里">
+            阿里
+        </a>
+    </li>
+    <li>
+        <a href="https://nav.dreamthere.com/index?key=腾讯">
+            腾讯
+        </a>
+    </li>
+    <li>
+        <a href="https://nav.dreamthere.com/index?t=17">
+            开源
+        </a>
+    </li>
+</ul>
+
+### 分类
+<ul><li>
+    <a href="https://nav.dreamthere.com/index?t=3">
+        应用
     </a>
 </li><li>
-    <a href="/index?t=1">
-        推荐
+    <a href="https://nav.dreamthere.com/index?t=4">
+        新闻
     </a>
 </li><li>
-    <a href="/index?t=2">
-        导航
+    <a href="https://nav.dreamthere.com/index?t=5">
+        娱乐
     </a>
 </li><li>
-    <a href="/index?key=百度">
-        百度
+    <a href="https://nav.dreamthere.com/index?t=6">
+        图片
     </a>
 </li><li>
-    <a href="/index?key=阿里">
-        阿里
+    <a href="https://nav.dreamthere.com/index?t=7">
+        购物
     </a>
 </li><li>
-    <a href="/index?key=腾讯">
-        腾讯
+    <a href="https://nav.dreamthere.com/index?t=8">
+        社交
     </a>
 </li><li>
-    <a href="/index?t=17">
-        开源
+    <a href="https://nav.dreamthere.com/index?t=9">
+        体育
+    </a>
+</li><li>
+    <a href="https://nav.dreamthere.com/index?t=10">
+        生活
+    </a>
+</li><li>
+    <a href="https://nav.dreamthere.com/index?t=11">
+        游戏
+    </a>
+</li><li>
+    <a href="https://nav.dreamthere.com/index?t=12">
+        教育
+    </a>
+</li><li>
+    <a href="https://nav.dreamthere.com/index?t=13">
+        科技
+    </a>
+</li><li>
+    <a href="https://nav.dreamthere.com/index?t=14">
+        金融
+    </a>
+</li><li>
+    <a href="https://nav.dreamthere.com/index?t=15">
+        阅读
+    </a>
+</li><li>
+    <a href="https://nav.dreamthere.com/index?t=16">
+        其他
     </a>
 </li></ul>
 
-```markdown
-Syntax highlighted code block
+### 作者
 
-# Header 1
-## Header 2
-### Header 3
+- 站长简介
 
-- Bulleted
-- List
+> 一枚PHP开发工程师，曾就职网龙、百度、4399等互联网公司。
+> 精通JAVA、PHP、Python、C#等，开发过各种爬虫工具，爬取过网址、视频、公众号、代理IP等数据。
+> 欢迎沟通交流，编程、业务、创业等等都可以交流，微信扫码加我吧。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DREAMTHERETEAM/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 站长微信
+![站长微信](https://raw.githubusercontent.com/yuxie2025/douyin/douyin/app/img/download_qr.png)
