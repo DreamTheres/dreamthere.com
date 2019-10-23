@@ -101,7 +101,7 @@
     </a>
 </li></ul>
 
-### 作者
+### 关于
 
 - 站长简介
 
@@ -110,4 +110,9 @@
 > 欢迎沟通交流，编程、业务、创业等等都可以交流，微信扫码加我吧。
 
 - 站长微信
-![站长微信](https://raw.githubusercontent.com/yuxie2025/douyin/douyin/app/img/download_qr.png)
+![站长微信](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/mine-wechat.jpg)
+
+- 感谢捐赠
+
+![微信](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/wechat-collect.jpg)
+![支付宝](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/ali-collect.jpg)
