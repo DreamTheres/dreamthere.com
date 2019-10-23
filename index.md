@@ -111,7 +111,7 @@
 
 - 站长微信
 
-![站长微信](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/mine-wechat.jpg =250*300)
+<img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/mine-wechat.jpg" alt="微信" width="250" height="300">
 
 - 感谢捐赠
 
