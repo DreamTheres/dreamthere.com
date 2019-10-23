@@ -1,12 +1,38 @@
-## Welcome to GitHub Pages
+## 梦想导航-有梦的地方
 
-You can use the [editor on GitHub](https://github.com/DREAMTHERETEAM/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+主站 [梦想导航-有梦的地方](https://nav.dreamthere.com) 是一个丰富的网址导航站，分类齐全，精品合集网址，精选各类网址，让您看到更多有用的网站。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 优选
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul class="dropdown-menu languages"><li>
+    <a href="/index?t=99">
+        优秀
+    </a>
+</li><li>
+    <a href="/index?t=1">
+        推荐
+    </a>
+</li><li>
+    <a href="/index?t=2">
+        导航
+    </a>
+</li><li>
+    <a href="/index?key=百度">
+        百度
+    </a>
+</li><li>
+    <a href="/index?key=阿里">
+        阿里
+    </a>
+</li><li>
+    <a href="/index?key=腾讯">
+        腾讯
+    </a>
+</li><li>
+    <a href="/index?t=17">
+        开源
+    </a>
+</li></ul>
 
 ```markdown
 Syntax highlighted code block
