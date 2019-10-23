@@ -110,6 +110,7 @@
 > 欢迎沟通交流，编程、业务、创业等等都可以交流，微信扫码加我吧。
 
 - 站长微信
+
 ![站长微信](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/mine-wechat.jpg)
 
 - 感谢捐赠
