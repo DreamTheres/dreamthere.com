@@ -111,15 +111,9 @@
 
 - 站长微信
 
-![站长微信](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/mine-wechat.jpg)
+![站长微信](https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/mine-wechat.jpg =250x300)
 
 - 感谢捐赠
 
-<center>
-    <img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/wechat-collect.jpg" alt="微信" width="250" height="300">
-微信
-</center>
-<center>
-    <img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/ali-collect.jpg" alt="支付宝" width="250" height="300">
-支付宝
-</center>
+<img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/wechat-collect.jpg" alt="微信" width="250" height="300">
+<img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/ali-collect.jpg" alt="支付宝" width="250" height="300">
