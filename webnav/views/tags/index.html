@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="DreamThere" />
+    <meta name="author" content="JK.Y" />
+    <meta name="referrer" content="never">
+    <meta name="msvalidate.01" content="2F9C047D149D354D85AAD14FC5612856" />
+    <meta name="domain_verify" content="pmrgi33nmfuw4ir2ejshezlbnv2gqzlsmuxgg33neiwcez3vnfsceorcmjrtembzmzstemruha2tinruhfrdeytcgnrdknzxge2gknjqmm4selbcoruw2zktmf3gkir2ge2tgnjqg43tsnrygyzde7i">
+    <title>标签 - DreamThere.com - 梦想导航</title>
+    <meta name="keywords" content="网址导航,创意导航,创意网站导航,网址大全,设计师导航,UI设计资源,设计师网址大全,设计师网址导航,产品经理网址导航,交互设计师网址导航,nav.dreamthere.com">
+    <meta name="description" content="DreamThere - 梦想导航，收集国内外优秀网站、UI设计资源网站、灵感创意网站、素材资源网站。nav.dreamthere.com">
+    <link rel="shortcut icon" href="/res/favicon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arimo:400,700,400italic">
+    <link rel="stylesheet" href="/res/assets/css/fonts/linecons/css/linecons.css">
+    <link rel="stylesheet" href="/res/assets/css/fonts/fontawesome/css/font-awesome.min.css">
+    <link href="https://apps.bdimg.com/libs/bootstrap/3.0.3/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="/res/assets/css/xenon-core.css">
+    <link rel="stylesheet" href="/res/assets/css/xenon-components.css">
+    <link rel="stylesheet" href="/res/assets/css/xenon-skins-min.css">
+    <link rel="stylesheet" href="/res/assets/css/nav.css">
+    <script src="https://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- / FB Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://nav.dreamthere.com/">
+    <meta property="og:title" content="DreamThere - 梦想导航，收集国内外优秀网站、UI设计资源网站、灵感创意网站、素材资源网站。nav.dreamthere.com">
+    <meta property="og:description" content="网址导航,创意导航,创意网站导航,网址大全,设计师导航,UI设计资源,设计师网址大全,设计师网址导航,产品经理网址导航,交互设计师网址导航,nav.dreamthere.com">
+    <meta property="og:site_name" content="DreamThere - 梦想导航，收集国内外优秀网站、UI设计资源网站、灵感创意网站、素材资源网站。nav.dreamthere.com">
+    <!-- / Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="DreamThere - 梦想导航，收集国内外优秀网站、UI设计资源网站、灵感创意网站、素材资源网站。nav.dreamthere.com">
+    <meta name="twitter:description" content="网址导航,创意导航,创意网站导航,网址大全,设计师导航,UI设计资源,设计师网址大全,设计师网址导航,产品经理网址导航,交互设计师网址导航,nav.dreamthere.com">
+</head>
+
+<body class="page-body">
+    <!-- skin-white -->
+    <div class="page-container">
+        <div class="main-content">
+            <nav class="navbar user-info-navbar" role="navigation">
+                <!-- User Info, Notifications and Menu Bar -->
+                <!-- Left links for user info navbar -->
+                <ul class="user-info-menu left-links list-inline list-unstyled" id="menus">
+                    
+                </ul>
+            </nav>
+            <!-- 所有 -->            
+            <div class="row">
+                <div class='col-sm-4'>
+                    <h4 class="text-gray">
+                        <i class="linecons-tag" style="margin-right: 7px;" id="所有"></i>
+                        <?php $t = isset($t) ? $t : -1; echo (isset($typeMap[$t]) ? $typeMap[$t] : "发现"); ?>
+                    </h4>
+                </div>
+                <div class="col-sm-4"></div>
+                <div class="col-sm-4 text-right">
+                    <input name="key" value="<?php echo isset($key)?$key:'';?>"><button id='search-btn' onclick="search(1)">搜索</button>
+                </div>
+            </div>
+            <div id="all"></div>
+            <h5 class="page-header"></h5>
+            <p class="text-center load-more">加载中...</p>
+            <br />
+            <!-- END 所有 -->
+            <!-- Main Footer -->
+            <!-- Choose between footer styles: "footer-type-1" or "footer-type-2" -->
+            <!-- Add class "sticky" to  always stick the footer to the end of page (if page contents is small) -->
+            <!-- Or class "fixed" to  always fix the footer to the end of page -->
+            <footer class="main-footer sticky footer-type-1 fixed">
+                <div class="footer-inner">
+                    <!-- Add your copyright text here -->
+                    <div class="footer-text">
+                        &copy; 2017-2018
+                        <a href="http://dreamthere.com"><strong>DreamThere</strong></a> develop by <a href="http://dreamthere.com" target="_blank"><strong>JK.Y</strong></a>
+                        <!--  - Purchase for only <strong>23$</strong> -->
+                    </div>
+                    <!--站长统计-->
+                    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan class='go-up' id='cnzz_stat_icon_1274594543'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1274594543%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+                    <!-- Go to Top Link, just add rel="go-top" to any link to add this functionality -->
+                    <div class="go-up">
+                        <a href="#" rel="go-top">
+                            <i class="fa-angle-up"></i>
+                        </a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <!-- 锚点平滑移动 -->
+    <script type="text/javascript" src="/res/js/juicer.min.js"></script> 
+    <script id="all-template" type="text/template">
+        <div class="row">
+        {@each list as it,index}
+            <div class="col-sm-3">
+                <div class="xe-widget xe-conversations box2 label-info" onclick="window.open('/tag_urls?tag=${it.tag}&t=18', '_blank')" data-toggle="tooltip" data-placement="bottom" title="${it.tag}" data-original-title="${it.tag}">
+                    <div class="xe-comment-entry">
+                        <div class="xe-comment">
+                            <a href="javascript:void(0);" class="xe-user-name overflowClip_1">
+                                <strong>${it.tag}(${it.num})</strong>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {@/each}
+        </div>
+    </script>
+    <script type="text/javascript">
+    var type = '<?php echo isset($t)?$t:-1;?>';
+    var keyword = '<?php echo isset($key)?$key:"";?>';
+    var ver = '<?php echo isset($ver)?$ver:1;?>';
+    var href = "";
+    var pos = 0;
+    $("a.smooth").click(function(e) {
+        $("#main-menu li").each(function() {
+            $(this).removeClass("active");
+        });
+        $(this).parent("li").addClass("active");
+        e.preventDefault();
+        href = $(this).attr("href");
+        pos = $(href).position().top - 30;
+        $("html,body").animate({
+            scrollTop: pos
+        }, 500);
+    });
+    </script>
+    <!-- Bottom Scripts -->
+    <script src="https://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="/res/assets/js/TweenMax.min.js"></script>
+    <script src="/res/assets/js/resizeable.js"></script>
+    <script src="/res/assets/js/joinable.js"></script>
+    <script src="/res/assets/js/xenon-api.js"></script>
+    <script src="/res/assets/js/xenon-toggles.js"></script>
+    <!-- JavaScripts initializations and stuff -->
+    <script src="/res/assets/js/xenon-custom.js"></script>
+    <script src="/res/js/bus/tags.js"></script>
+    <script src="/res/js/util/operate.js"></script>
+</body>
+
+</html>

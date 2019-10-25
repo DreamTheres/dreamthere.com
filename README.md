@@ -2,6 +2,19 @@
 
 主站 [梦想导航-有梦的地方](https://nav.dreamthere.com) 是一个丰富的网址导航站，分类齐全，精品合集网址，精选各类网址，让您看到更多有用的网站。
 
+### 安装
+
+1.  创建数据库
+2.  导入 install/urls.sql 初始化建表语句
+3.  配置 webnav/config/production/database.php 数据库配置文件
+4.  chmod 777 res/html/ webnav/cache/ webnav/logs/ 保证目录可写
+5.  仅需res/ system/ webnav/ 三个目录加上index.php文件
+
+### 使用
+
+1.  变动tabs菜单表(url_menus)后，需执行http://域名/menus/refreshHtml 刷新菜单栏缓存文件
+2.  标签表(tags) => 网址标签关联表(url_tags) => 网址表(urls)
+
 ### 优选
 
 <ul>
