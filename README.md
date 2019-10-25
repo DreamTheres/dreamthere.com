@@ -17,8 +17,8 @@
 
 ### 参考
 
-1.  前端 ![www.webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io)
-2.  后端 ![CodeIgniter](https://github.com/bcit-ci/CodeIgniter) 文档 https://codeigniter.com
+1.  前端 [www.webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io)
+2.  后端 [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) 文档 https://codeigniter.com
 
 ### 优选
 
@@ -138,4 +138,4 @@
 
 ### 特别感谢
 
-> 本站结合 ![www.webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 和 ![CodeIgniter](https://github.com/bcit-ci/CodeIgniter) 开源项目，特别感谢开源作者！
+> 本站结合 [www.webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 和 [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) 开源项目，特别感谢开源作者！
