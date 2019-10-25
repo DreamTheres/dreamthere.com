@@ -44,7 +44,7 @@ CREATE TABLE `url_menus` (
   PRIMARY KEY (`id`)
 ) ENGINE=INNODB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
-INSERT  INTO `url_menus`(`id`,`name`,`icon`,`url`,`pid`,`has_child`,`px`,`create_time`,`update_time`,`status`) VALUES (1,'优选','','#',0,1,1,0,0,0),(2,'分类','','#',0,1,2,0,0,0),(3,'工具','','#',0,1,3,0,0,0),(4,'关于','','#',0,1,4,0,0,0),(5,'推荐','','/index?t=5',1,0,1,0,0,0),(6,'应用','','/index?t=6',2,0,1,0,0,0),(7,'搜索引擎','','/index?t=7',3,0,1,0,0,0),(8,'作者','','/about',4,0,1,0,0,0),(9,'发现','','/',1,0,2,0,0,0),(10,'更新菜单栏','','/menus/refreshHtml',3,0,2,0,0,0);
+INSERT  INTO `url_menus`(`id`,`name`,`icon`,`url`,`pid`,`has_child`,`px`,`create_time`,`update_time`,`status`) VALUES (1,'优选','','#',0,1,1,0,0,0),(2,'分类','','#',0,1,2,0,0,0),(3,'工具','','#',0,1,3,0,0,0),(4,'关于','','#',0,1,5,0,0,0),(5,'推荐','','/index?t=5',1,0,1,0,0,0),(6,'应用','','/index?t=6',2,0,1,0,0,0),(7,'搜索引擎','','/index?t=7',3,0,1,0,0,0),(8,'作者','','/about',4,0,1,0,0,0),(9,'发现','','/',1,0,2,0,0,0),(10,'更新菜单栏','','/menus/refreshHtml',3,0,2,0,0,0),(11,'标签','','/tags?t=11',3,0,4,0,0,0);
 
 DROP TABLE IF EXISTS `url_tags`;
 
