@@ -15,6 +15,11 @@
 1.  变动tabs菜单表(url_menus)后，需执行http://域名/menus/refreshHtml 刷新菜单栏缓存文件
 2.  标签表(tags) => 网址标签关联表(url_tags) => 网址表(urls)
 
+### 参考
+
+1.  前端 ![www.webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io)
+2.  后端 ![CodeIgniter](https://github.com/bcit-ci/CodeIgniter) 文档 https://codeigniter.com
+
 ### 优选
 
 <ul>
@@ -130,3 +135,7 @@
 
 <img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/wechat-collect.jpg" alt="微信" width="250" height="300">
 <img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/ali-collect.jpg" alt="支付宝" width="250" height="300">
+
+### 特别感谢
+
+> 本站结合 ![www.webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 和 ![CodeIgniter](https://github.com/bcit-ci/CodeIgniter) 开源项目，特别感谢开源作者！
