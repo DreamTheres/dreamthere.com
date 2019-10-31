@@ -124,9 +124,9 @@
 
 - 站长微信
 
-<img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/mine-wechat.jpg" alt="微信" width="250" height="300">
+<img src="http://17gif.cn/images/mine-wechat.jpg" alt="微信" width="250" height="300">
 
 - 感谢捐赠
 
-<img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/wechat-collect.jpg" alt="微信" width="250" height="300">
-<img src="https://raw.githubusercontent.com/DreamTheres/dreamthere.com/master/img/ali-collect.jpg" alt="支付宝" width="250" height="300">
+<img src="http://17gif.cn/images/wechat-collect.jpg" alt="微信" width="250" height="300">
+<img src="http://17gif.cn/images/ali-collect.jpg" alt="支付宝" width="250" height="300">
